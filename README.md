@@ -1,8 +1,13 @@
 # Folder Structure
+
 **component** - this folder contain all small react component used to build a page
+
 **hooks** - include all custom hooks you write in this folder
+
 **pages** - include only page components here
+
 **utils** - common funcionality shared across the projects
+
 **assets** - include images,video and other static files here
 
 
