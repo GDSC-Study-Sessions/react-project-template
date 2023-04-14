@@ -1,5 +1,5 @@
 # Project setup
-- fork the project from our template
+- select use template and choose namee for your repo
 - clone the repository
 - cd to the repo
 - ```bash 
