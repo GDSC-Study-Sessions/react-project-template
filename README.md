@@ -1,3 +1,10 @@
+# Project setup
+- fork the project from our template
+- clone the repository
+- cd to the repo
+- ```bash 
+  npm install
+```
 # Folder Structure
 
 **component** - this folder contain all small react component used to build a page
